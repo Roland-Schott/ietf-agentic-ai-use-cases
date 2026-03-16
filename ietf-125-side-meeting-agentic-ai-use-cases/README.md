@@ -14,3 +14,6 @@ Organizers: Jordi Ros-Giralt, <jros@qti.qualcomm.com>, Julien Maisonneuve <julie
 
 ## Agenda
 
+- [16:30 - 16:40] Introduction and Problem Motivation
+- [16:45 - 17:00] Agent Communication Network scenarios and Gap Analysis, Kehan Yao
+
