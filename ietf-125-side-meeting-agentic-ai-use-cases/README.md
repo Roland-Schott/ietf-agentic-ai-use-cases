@@ -15,9 +15,10 @@ Organizers: Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien
 ## Agenda
 
 - [16:30 - 16:40] Introduction and Problem Motivation
-- [16:40 - 16:55] Agent Communication Network scenarios and Gap Analysis, Kehan Yao
-- [16:55 - 17:10] Agentic AI Use Cases (https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases/): Julien Maisonneuve <julien.maisonneuve@nokia.com>, Jordi Ros-Giralt <jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com> 
-- [17:10 - 17:25]
+- [16:40 - 16:55] Agent Communication Network scenarios and Gap Analysis (Kehan Yao)
+- [16:55 - 17:10] Agentic AI Use Cases (https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases/, Julien Maisonneuve <julien.maisonneuve@nokia.com>, Jordi Ros-Giralt <jros@qti.qualcomm.com>, Roland Schott <Roland.Schott@telekom.de>, L. M. Contreras <luismiguel.contrerasmurillo@telefonica.com>)
+- [17:10 - 17:25] Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals, Jinyang Li <lijinyang9@huawei.com>, Shuping Peng
+<pengshuping@huawei.com>
 - [17:25 - 17:40]
 - [17:40 - 17:55]
 - [17:55 - 18:00] Conclusions
