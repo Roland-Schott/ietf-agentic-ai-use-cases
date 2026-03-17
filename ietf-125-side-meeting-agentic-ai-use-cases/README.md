@@ -27,7 +27,7 @@ Organizers: Jordi Ros-Giralt <jros@qti.qualcomm.com>, Julien Maisonneuve <julien
 - [16:50 - 17:00] "Agent Communication Network scenarios and Gap Analysis", https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis/, Kehan Yao (China Mobile) 
 - [17:00 - 17:10] "Agent-to-Agent/APPs/Tools Interaction and Invocation Scenarios on Terminals", Jinyang Li and Shuping Peng (Huawei)
 - [17:10 - 17:20] "AI Agent protocols for 6G systems", https://datatracker.ietf.org/doc/draft-stephan-ai-agent-6g/, E. Stephan (Orange), R. Schott (Deutsche Telekom), D. Lopez (Telefonica), X. Duan (China Mobile), L. Morand (Huawei)
-- [17:20 - 17:30] "DT Use Cases for Agentic AI: RAN and Agent Discovery", Roland Schott (Deutsche Telekom)
+- [17:20 - 17:30] "DT Use Cases for Agentic AI: Multi-Agent Intelligence for Service Operations and Agent Discovery", Roland Schott (Deutsche Telekom)
 - [17:30 - 17:45] Discussions
 - [17:45 - 17:50] Conclusions
 
